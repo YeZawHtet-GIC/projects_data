@@ -8,35 +8,35 @@
 			"deployedUrl": "none"
 		},
 		{
-			"id": "1",
+			"id": "2",
 			"title": "Portfolio",
 			"languages": "HTML, CSS and JavaScript",
 			"gitUrl": "https://github.com/YeZawHtet/Portfolio.git",
 			"deployedUrl": "https://portfoliobyyzh.netlify.app/"
 		},
 		{
-			"id": "1",
+			"id": "3",
 			"title": "T Tutor Zone (Tutor finding system)",
 			"languages": "HTML, CSS, JavaScript, PHP and Bootstrap",
 			"gitUrl": "https://github.com/YeZawHtet/T-Tutor-Zone.git",
 			"deployedUrl": "none"
 		},
 		{
-			"id": "1",
+			"id": "4",
 			"title": "DreamTrip (Travelling Website)",
 			"languages": "HTML, CSS and JavaScript, PHP and Bootstrap",
 			"gitUrl": "https://github.com/YeZawHtet/Dream-Trip.git",
 			"deployedUrl": "none"
 		},
 		{
-			"id": "1",
+			"id": "5",
 			"title": "DreamTrip (Travelling Website)",
 			"languages": "HTML, CSS and JavaScript, PHP and Bootstrap",
 			"gitUrl": "https://github.com/YeZawHtet/Dream-Trip.git",
 			"deployedUrl": "none"
 		},
 		{
-			"id": "1",
+			"id": "6",
 			"title": "Cyber Tech (Hacking Training Website)",
 			"languages": "HTML, CSS and JavaScript, PHP and Bootstrap",
 			"gitUrl": "none",
